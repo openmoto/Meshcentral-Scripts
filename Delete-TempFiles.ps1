@@ -4,7 +4,7 @@
 	 Created on:   	17-Feb-20 11:02 PM
 	 Created by:   	Michael Agu
 	 Organization: 	ClockWorx IT
-	 Filename:     	Get-SmartStatus.ps1
+	 Filename:     	Delete-TempFiles.ps1
 	===========================================================================
 	.DESCRIPTION
 	This script will perform quick cleanup of windows devices and return the disk space before and after cleanup
